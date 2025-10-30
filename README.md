@@ -55,7 +55,7 @@ PNG (transparent background for web/mobile use).
 
 SVG (scalable for print and large banners).
 ## Output:
-<img width="1024" height="1024" alt="football" src="https://github.com/user-attachments/assets/7dd3a995-e5ba-40b3-b9fa-d80a6c0f3bd3" />
+<img width="1024" height="1024" alt="logo (2)" src="https://github.com/user-attachments/assets/13769f29-50b2-47eb-a706-482eda86d66c" />
 
 ## Result:
-A red shield-style logo with bold text CFC at the top, a football icon in the center, and CHENNAI FOOTBALL CLUB at the bottom, representing strength, unity, and passion for the game.
+A red shield-style logo with bold text ABC restaurant at the top, a chicken icon in the center, and Fastfood at the bottom, representing strength, unity, and passion for the game.
